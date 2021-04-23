@@ -1,18 +1,23 @@
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 
-- c/s架构
-- bash
+- C/S架构
+	- ✅Client：更新github仓库代码/更新个人服务器服务器代码；
+	- ✅Server：添加定时计划自动hook更新代码。
+- BASH
+	- 表格美化
+	- 动画加载
 
-### [Bigger Than Bigger]大文件存储及相关应用
+
+### [*Bigger Than Bigger*](https://github.com/Bin4xin/bigger-than-bigger)大文件存储及相关应用
 
 - 用友nc6.5反序列化依赖jar包
 - WALL_LISTS 文档
-- *[点击以了解Bigger Than Bigger](https://github.com/Bin4xin/bigger-than-bigger)*
 
-### *[sweet-ysoserial](https://github.com/Bin4xin/sweet-ysoserial)*
 
-- 魔改ysoserial jar
+### [*sweet-ysoserial*](https://github.com/Bin4xin/sweet-ysoserial)项目与构建
 
+- 魔改ysoserial项目
+- 反序列化payload生成jar包
 
 ### ABOUT ME
 
