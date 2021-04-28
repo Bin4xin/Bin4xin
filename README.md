@@ -6,15 +6,23 @@
 - BASH
 	- 表格美化
 	- 动画加载
+- 测试OS/Support OS
+	- Darwin 20.3.0 MacOS Big Sur [~~server端~~/client端✅]
+	- Ubuntu 18.0/20.0 [server端✅/client端❎]
+    - CentOS 7 [server端❎/client端❎]
 
 
 ### [*Bigger Than Bigger*](https://github.com/Bin4xin/bigger-than-bigger)大文件存储及相关应用
 
 - 用友nc6.5反序列化依赖jar包
-- WALL_LISTS 文档
+- [*WALL_LISTS*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/WALL_LISTS) 文档
+- [*Bin4wvsDocker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4wvsDocker)（未完成❎）
+	- *AWVS14 in Docker*
+- [*Covv*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/CoVV) 已知复现漏洞合集
+	- *Collection of verified vulnerabilities*
 
 
-### [*sweet-ysoserial*](https://github.com/Bin4xin/sweet-ysoserial)项目与构建
+### [*Sweet-ysoserial*](https://github.com/Bin4xin/sweet-ysoserial)项目与构建
 
 - 魔改ysoserial项目
 - 反序列化payload生成jar包
