@@ -1,16 +1,19 @@
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 
 - C/S架构
-	- ✅Client：更新github仓库代码/更新个人服务器服务器代码；
-	- ✅Server：添加定时计划自动hook更新代码。
+	- Client：更新github仓库代码/更新个人服务器服务器代码✅
+	- Server：添加定时计划自动hook更新代码✅
 - BASH
-	- 表格美化
-	- 动画加载
+	- [表格美化*by banemon*](https://github.com/Bin4xin/B4xinSynchronize/blob/master/draw_table.sh)✅
+	- 动画加载✅
 - 测试OS/Support OS
 	- Darwin 20.3.0 MacOS Big Sur [~~server端~~/client端✅]
-	- Ubuntu 18.0/20.0 [server端✅/client端❎]
+	- Ubuntu 18.0/20.0 [server端✅/client端✅]
     - CentOS 7 [server端❎/client端❎]
 
+### [Industrial Control Wiki Record(ICWR)](https://github.com/Bin4xin/Industrial-Control-Wiki-Record)
+
+- 工控系统协议、靶场学习记录
 
 ### [*Bigger Than Bigger*](https://github.com/Bin4xin/bigger-than-bigger)大文件存储及相关应用
 
