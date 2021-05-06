@@ -11,7 +11,7 @@
 	- Ubuntu 18.0/20.0 [server端✅/client端✅]
     - CentOS 7 [server端❎/client端❎]
 
-### [Industrial Control Wiki Record(ICWR)](https://github.com/Bin4xin/Industrial-Control-Wiki-Record)
+### [*Industrial Control Wiki Record(ICWR)*](https://github.com/Bin4xin/Industrial-Control-Wiki-Record)
 
 - 工控系统协议、靶场学习记录
 
