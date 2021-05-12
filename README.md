@@ -1,11 +1,14 @@
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 
+- 2021年 5月 7日 星期五 13时46分03秒 CST ：
+    - [x] bash脚本版本完成
+        - [表格美化*by banemon*](https://github.com/Bin4xin/B4xinSynchronize/blob/master/draw_table.sh)✅
+        - 动画加载✅
+    - [ ] python相关代码编写中...
+    - [ ] C++相关代码编写中...
 - C/S架构
 	- Client：更新github仓库代码/更新个人服务器服务器代码✅
 	- Server：添加定时计划自动hook更新代码✅
-- BASH
-	- [表格美化*by banemon*](https://github.com/Bin4xin/B4xinSynchronize/blob/master/draw_table.sh)✅
-	- 动画加载✅
 - 测试OS/Support OS
 	- Darwin 20.3.0 MacOS Big Sur [~~server端~~/client端✅]
 	- Ubuntu 18.0/20.0 [server端✅/client端✅]
