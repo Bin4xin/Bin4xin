@@ -1,4 +1,6 @@
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
+<details>
+<summary><em>点击以展开 *B4xinSynchronize介绍 </em></summary>
 
 - 2021年 5月 7日 星期五 13时46分03秒 CST ：
     - [x] bash脚本版本完成
@@ -13,6 +15,7 @@
 	- Darwin 20.3.0 MacOS Big Sur [~~server端~~/client端✅]
 	- Ubuntu 18.0/20.0 [server端✅/client端✅]
     - CentOS 7 [server端❎/client端❎]
+</details>
 
 ### [*Industrial Control Wiki Record(ICWR)*](https://github.com/Bin4xin/Industrial-Control-Wiki-Record)
 
@@ -20,13 +23,17 @@
 
 ### [*Bigger Than Bigger*](https://github.com/Bin4xin/bigger-than-bigger)大文件存储及相关应用
 
+<details>
+<summary><em>点击以展开 *Bigger Than Bigger介绍 </em></summary>
+
 - 用友nc6.5反序列化依赖jar包
 - [*WALL_LISTS*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/WALL_LISTS) 文档
-- [*Bin4wvsDocker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4wvsDocker)（未完成❎）
-	- *AWVS14 in Docker*
+- [*Bin4llDocker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4wvsDocker)（未完成❎）
+	- [ ] *AWVS14 in Docker*
+	- [x] [*jellyfin : base on docker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4llDocker/Jellyfin)
 - [*Covv*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/CoVV) 已知复现漏洞合集
 	- *Collection of verified vulnerabilities*
-
+</details>
 
 ### [*Sweet-ysoserial*](https://github.com/Bin4xin/sweet-ysoserial)项目与构建
 
