@@ -55,5 +55,8 @@ You can click the Preview link to take a look at your changes.
 #### # 被访问次数
 ![Bin4xin Visitors](https://profile-counter.glitch.me/bin4xin/count.svg)
 
-#### # Github"奖牌"
-![Bin4xin Prize](https://github-readme-stats.vercel.app/api?username=bin4xin&show_icons=true)
+#### # Github "成就"
+![Bin4xin Arcivements](https://github-profile-trophy.vercel.app/?username=bin4xin&theme=darkhub)
+
+#### # Github "奖牌"
+![Bin4xin Prize](https://github-readme-stats.vercel.app/api?username=bin4xin&theme=dracula&show_icons=true)
