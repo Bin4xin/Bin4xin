@@ -1,10 +1,23 @@
+### [SentryLab Blog](https://github.com/Bin4xin/bin4xin.github.io)
+
+- 国内
+    - [x] [Home](https://www.sentrylab.cn/)
+    - [x] [About](https://about.sentrylab.cn//)
+- 国外
+    - [x] [Home](https://bin4xin.github.io/)
+    - [ ] [About](#)
+- 镜像
+    - [ ] [Home](#)
+    - [x] [About](https://bin4xin.gitee.io/)
+
+
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 <details>
 <summary><em>点击以展开 *B4xinSynchronize介绍 </em></summary>
 
 - 2021年 5月 7日 星期五 13时46分03秒 CST ：
     - [x] bash脚本版本完成
-        - [表格美化*by banemon*](https://github.com/Bin4xin/B4xinSynchronize/blob/master/draw_table.sh)✅
+        - [表格美化*by banemon*](https://github.com/Bin4xin/B4xinSynchronize/blob/master/bash/functions/draw_table.sh)✅
         - 动画加载✅
     - [ ] python相关代码编写中...
     - [ ] C++相关代码编写中...
@@ -15,6 +28,7 @@
 	- Darwin 20.3.0 MacOS Big Sur [~~server端~~/client端✅]
 	- Ubuntu 18.0/20.0 [server端✅/client端✅]
     - CentOS 7 [server端❎/client端❎]
+
 </details>
 
 ### [*Industrial Control Wiki Record(ICWR)*](https://github.com/Bin4xin/Industrial-Control-Wiki-Record)
@@ -23,7 +37,7 @@
 <summary><em>点击以展开 *Industrial Control Wiki Record介绍 </em></summary>
 
 - 工控系统协议、靶场学习记录
-...
+- ...
 
 </details>
 
@@ -45,8 +59,15 @@
 
 ### [*Sweet-ysoserial*](https://github.com/Bin4xin/sweet-ysoserial)项目与构建
 
+<details>
+<summary><em>点击以展开 *Sweet-ysoserial介绍 </em></summary>
+
 - 魔改ysoserial项目
 - 反序列化payload生成jar包
+
+</details>
+
+---
 
 ### ABOUT ME
 
@@ -60,6 +81,9 @@
 Bin4xin/Bin4xin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+---
+
 #### # 被访问次数
 ![Bin4xin Visitors](https://profile-counter.glitch.me/bin4xin/count.svg)
 
