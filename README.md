@@ -19,7 +19,13 @@
 
 ### [*Industrial Control Wiki Record(ICWR)*](https://github.com/Bin4xin/Industrial-Control-Wiki-Record)
 
+<details>
+<summary><em>点击以展开 *Industrial Control Wiki Record介绍 </em></summary>
+
 - 工控系统协议、靶场学习记录
+...
+
+</details>
 
 ### [*Bigger Than Bigger*](https://github.com/Bin4xin/bigger-than-bigger)大文件存储及相关应用
 
@@ -33,6 +39,8 @@
 	- [x] [*jellyfin : base on docker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4llDocker/Jellyfin)
 - [*Covv*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/CoVV) 已知复现漏洞合集
 	- *Collection of verified vulnerabilities*
+- [*...*](https://github.com/Bin4xin/bigger-than-bigger)
+
 </details>
 
 ### [*Sweet-ysoserial*](https://github.com/Bin4xin/sweet-ysoserial)项目与构建
