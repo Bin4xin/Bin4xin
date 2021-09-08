@@ -1,11 +1,9 @@
 ### [SentryLab Blog](https://github.com/Bin4xin/bin4xin.github.io)
 
-SentryLab Blog
----------------------------
  国内 | 国外 | 镜像
 -------|---------------------------|---------------------------
- [x] [Home](https://www.sentrylab.cn/) | [x] [Home](https://bin4xin.github.io/) | [ ] [Home](#)
- [x] [About](https://about.sentrylab.cn//) | [ ] [About](#) | [x] [About](https://bin4xin.gitee.io/)
+ [Home](https://www.sentrylab.cn/) | [Home](https://bin4xin.github.io/) | [Home](#)
+ [About](https://about.sentrylab.cn//) | [About](#) | [About](https://bin4xin.gitee.io/)
 
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 <details>
@@ -44,7 +42,7 @@ SentryLab Blog
 
 - 用友nc6.5反序列化依赖jar包
 - [*WALL_LISTS*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/WALL_LISTS) 文档
-- [*Bin4llDocker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4wvsDocker)（未完成❎）
+- [*Bin4llDocker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4llDocker)（未完成❎）
 	- [ ] *AWVS14 in Docker*
 	- [x] [*jellyfin : base on docker*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/Bin4llDocker/Jellyfin)
 - [*Covv*](https://github.com/Bin4xin/bigger-than-bigger/tree/master/CoVV) 已知复现漏洞合集
