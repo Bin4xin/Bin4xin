@@ -1,15 +1,11 @@
 ### [SentryLab Blog](https://github.com/Bin4xin/bin4xin.github.io)
 
-- 国内
-    - [x] [Home](https://www.sentrylab.cn/)
-    - [x] [About](https://about.sentrylab.cn//)
-- 国外
-    - [x] [Home](https://bin4xin.github.io/)
-    - [ ] [About](#)
-- 镜像
-    - [ ] [Home](#)
-    - [x] [About](https://bin4xin.gitee.io/)
-
+SentryLab Blog
+---------------------------
+ 国内 | 国外 | 镜像
+-------|---------------------------|---------------------------
+ [x] [Home](https://www.sentrylab.cn/) | [x] [Home](https://bin4xin.github.io/) | [ ] [Home](#)
+ [x] [About](https://about.sentrylab.cn//) | [ ] [About](#) | [x] [About](https://bin4xin.gitee.io/)
 
 ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 <details>
