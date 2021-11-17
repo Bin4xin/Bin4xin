@@ -1,11 +1,23 @@
-### [SentryLab Blog](https://github.com/Bin4xin/bin4xin.github.io)
+<h1 align="center">哨兵</h1>
 
- 国内 | 国外 | 镜像
--------|---------------------------|---------------------------
- [Home](https://www.sentrylab.cn/) | [Home](https://bin4xin.github.io/) | [Home](#)
- [About](https://about.sentrylab.cn//) | [About](#) | [About](https://bin4xin.gitee.io/)
+<div align="center">
 
-### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
+<img src="https://raw.githubusercontent.com/Bin4xin/bin4xin.github.io/main/assets/img/logo-small.svg" width="60" height="60"> 
+
+![build sync and reload](https://github.com/Bin4xin/bin4xin.github.io/workflows/build%20sync%20and%20reload/badge.svg)
+
+<p align="center">
+  <a href="https://bin4xin.github.io/">网站</a> •
+  <a href="https://bin4xin.gitee.io/">CN镜像</a> •
+  <a href="https://bin4xin.github.io/blog">博客</a> •
+  <a href="https://bin4xin.github.io/about">我的研究</a>
+</p>
+
+</div>
+
+---
+
+<!-- ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 <details>
 <summary><em>点击以展开 *B4xinSynchronize介绍 </em></summary>
 
@@ -59,7 +71,7 @@
 - 魔改ysoserial项目
 - 反序列化payload生成jar包
 
-</details>
+</details> -->
 
 ---
 
@@ -68,7 +80,7 @@
 - 👋 Hi, I’m @Bin4xin
   - 🌱 如果这些仓库代码直接或间接帮到了您，给个点赞👍和关注➕吧？
   - 💞️ If these repo codes help you directly or indirectly, how about give me a star and attention ?
-- 🏃 RUNNING ... Learning ...
+- 🏃 RUNNING... Learning...
 - 📫 Contact me :`chihou.pro@gmail.com`
 
 <!---
@@ -78,11 +90,11 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-#### # 被访问次数
+<!-- #### # 被访问次数
 ![Bin4xin Visitors](https://profile-counter.glitch.me/bin4xin/count.svg)
 
 #### # Github "成就"
 ![Bin4xin Arcivements](https://github-profile-trophy.vercel.app/?username=bin4xin&theme=darkhub)
 
 #### # Github "奖牌"
-![Bin4xin Prize](https://github-readme-stats.vercel.app/api?username=bin4xin&theme=dracula&show_icons=true)
+![Bin4xin Prize](https://github-readme-stats.vercel.app/api?username=bin4xin&theme=dracula&show_icons=true) -->
