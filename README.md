@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 <!-- ### [*B4xinSynchronize*](https://github.com/Bin4xin/B4xinSynchronize)自动化代码同步脚本
 <details>
 <summary><em>点击以展开 *B4xinSynchronize介绍 </em></summary>
