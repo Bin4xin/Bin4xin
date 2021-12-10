@@ -17,10 +17,8 @@
 
 ---
 
-### ABOUT ME
-
 - 👋 Hi, I’m @Bin4xin
   - 🌱 如果这些仓库代码直接或间接帮到了您，给个点赞👍和关注➕吧？
-  - 💞️ If these repo codes help you directly or indirectly, how about give me a star and attention ?
-- 🏃 RUNNING... Learning...
-- 📫 Contact me :`chihou.pro@gmail.com`
+  - 💞️ If these repo codes help you directly or indirectly, how about give me a star?
+  - 🏃 RUNNING... Learning...
+- 📫 Contact me :`bin4xin@sentrylab.cn`
