@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Bin4xin/bin4xin.github.io/main/assets/img/logo-small.svg" width="60" height="60">
+© 哨兵博客 V1.0 Power by Jekyll | Github Action.
 
-![build sync and reload](https://github.com/Bin4xin/bin4xin.github.io/workflows/build%20sync%20and%20reload/badge.svg)
+![build sync and reload](https://github.com/Bin4xin/bin4xin.github.io/workflows/sentrylab%20build%20sync%20and%20reload./badge.svg)
 
 <p align="center">
   <a href="https://bin4xin.github.io/">网站</a> •
@@ -13,7 +13,14 @@
   <a href="https://bin4xin.github.io/about">我的研究</a>
 </p>
 
+<ul>
+<li>目录</li>
+</ul>
 </div>
+<ul>
+<li><a href="https://github.com/Bin4xin/bin4xin.github.io/blob/main/CHANGELOG.md">::历史记录相关文档::</a></li>
+<li><a href="https://github.com/Bin4xin/bin4xin.github.io/blob/main/BUILD.md">::构建相关文档::</a></li>
+</ul>
 
 ---
 
