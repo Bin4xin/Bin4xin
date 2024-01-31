@@ -27,4 +27,4 @@
   - 🌱 如果这些仓库代码直接或间接帮到了您，给个点赞👍和关注➕吧？
   - 💞️ If these repo codes help you directly or indirectly, how about give me a star?
   - 🏃 RUNNING... Learning...
-- 📫 Contact me :`bin4xin@sentrylab.cn`
+- 📫 Contact me :`bin4xin[/at/]sentrylab.cn`
